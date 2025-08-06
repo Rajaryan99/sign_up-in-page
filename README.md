@@ -28,11 +28,4 @@ A modern, aesthetic Sign-Up and Sign-In page designed with **HTML, CSS, and Java
 
 ---
 
-## 📁 Project Structure
 
-
-📂 project-folder
-├── index.html        # Main HTML file
-├── style.css         # All styles using Glassmorphism
-├── script.js         # JavaScript for password generation and interactivity
-└── img/
